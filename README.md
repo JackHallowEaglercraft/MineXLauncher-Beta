@@ -12,3 +12,15 @@ Run the launcher executable to start enjoying its features.
 Just host it and use it!
 ## Contributing
 Contributions to Eaglercraft Client are welcome! If you encounter any issues or have ideas for enhancements, feel free to submit a pull request or open an issue on the repository.
+
+Github.com Link: 
+https://github.com/JaydenYoriTheBeast/EaglerCraftX-1.20-File-html 
+https://github.com/DustySoul1-ALT/EaglercraftClients 
+https://github.com/JosiahAppsInc/Starlike-Client/blob/main/Starlike_Client_Offline.html.zip
+https://github.com/Elite4r/Resent-Client/releases 
+https://github.com/v10letfur/Eaglercraft-X-1.8.8 
+https://github.com/gn-math/gn-math-DONTDMCA 
+https://github.com/mrjo3000/--Eaglercraft-Clients--- 
+https://github.com/CoolDude2349/Offline-HTML-Games-Pack 
+https://github.com/AstraClientOrg/AstraClientOrg.github.io 
+https://github.com/GupGupMC/Tuff-Client-1.12.2- 
