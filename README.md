@@ -1,5 +1,5 @@
-# MineXLauncher-Beta
-### MineXLauncher-Beta is a custom launcher for Minecraft, designed to provide additional features and customization options for players.
+# Eaglercraft Client
+### Eaglercraft Client is a custom launcher for Minecraft, designed to provide additional features and customization options for players.
 
 ## Features
 One of the first Eaglercraft Launchers, that is easily hosted and can be used anywhere!
