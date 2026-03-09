@@ -24,3 +24,4 @@ https://github.com/mrjo3000/--Eaglercraft-Clients---
 https://github.com/CoolDude2349/Offline-HTML-Games-Pack 
 https://github.com/AstraClientOrg/AstraClientOrg.github.io 
 https://github.com/GupGupMC/Tuff-Client-1.12.2- 
+https://github.com/DrWalksy/Solar-Client 
